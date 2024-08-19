@@ -1,0 +1,29 @@
+input{
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    }
+#num{
+    background-color: rgb(131, 68, 204);
+    color:rgb(255, 255, 255);
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+body{
+    height: 200px;
+    width: 100px;
+    margin-top: 300px;
+    margin-left: 600px;
+    box-shadow: 0 0 10px black;
+    height: auto;
+    width: 250px;
+    padding: 30px;
+    border-radius: 25px;
+}
